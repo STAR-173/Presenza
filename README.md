@@ -21,7 +21,7 @@ AMS (Attendance Management System) is a robust and scalable web application desi
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [repository URL]
+   git clone https://github.com/STAR-173/Presenza.git
    ```
 2. Navigate to the project directory:
    ```bash
