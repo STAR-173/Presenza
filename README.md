@@ -167,8 +167,4 @@ AMS (Attendance Management System) is a robust and scalable web application desi
   - **Response**: Binary file
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-Feel free to update this file with more specific details once you review the project structure.
+This project is licensed under the GPL-3.0 License. See the `LICENSE` file for details.
