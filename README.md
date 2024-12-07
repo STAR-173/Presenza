@@ -1,7 +1,7 @@
-# Attendance Management System (AMS)
+# Presenza 
 
 ## Overview
-AMS (Attendance Management System) is a robust and scalable web application designed to streamline attendance tracking, reporting, and management for organizations. Built with TypeScript, Vite, and TailwindCSS on the frontend, and a secure backend, AMS offers a seamless user experience with advanced features like geofencing and integration capabilities.
+Presenza is a robust and scalable web application designed to streamline attendance tracking, reporting, and management for organizations. Built with TypeScript, Vite, and TailwindCSS on the frontend, and a secure backend, it offers a seamless user experience with advanced features like geofencing and integration capabilities.
 
 ## Features
 - **User Management**: Role-based access control and management of employee/student profiles.
