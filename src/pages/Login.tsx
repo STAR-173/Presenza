@@ -15,6 +15,9 @@ export const LoginPage: React.FC = () => {
         <p className="mt-2 text-center text-sm text-gray-600">
           Sign in to access your account
         </p>
+        <p className="mt-2 text-center text-sm text-gray-600">
+          Test Account Details -> email: admin@example.com | Password: admin123
+        </p>
       </div>
 
       <div className="mt-8 sm:mx-auto sm:w-full sm:max-w-md">
